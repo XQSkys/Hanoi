@@ -1,6 +1,9 @@
 # Hanoi
 Variation of "Tuerme von Hanoi".
 
+Die Fertige Version V3.6 ist FÜR Windows 64Bit. Sie Brauchen Ein Aktuelles Java. Lite heisst das java nicht enthalen ist in diesem Download. Eine Installation des Spiels ist nicht notwendig das Spiel ist sofort Ausfuerbar.
+Linux/linux ARM x86 un 64bit ist fertig aber ungetestet. eine Android version ist geplant
+
 Bei Hanoy wird mit der Maus erst auf den untersten Rosa Basis Stein geklickt er wechselt dann von dunkelblau nach grün. danach auf den Basis Stein wo der Stein hin soll mit der Maus drüber.
 ist bereits ein kleinerer stein darauf wird der Basis Stein darunter rot.
 Wenn gesetzen könnte wird er blau. dann einfach darauf klicken.

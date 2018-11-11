@@ -3,13 +3,17 @@ Variation of "Tuerme von Hanoi".
 
 wer normal spielen möchte:
 Hanoi_Lite_V3.6.7z ohne Filme funktion, ohne Automatisches Speichern.
+
 Hanoi_Infohazard.zip Film funktion, Automatisches Speichern.
+
 Hanoi_V3_7_4_adv.zip sondervariante mit spizieller autosave und filme funktion 
 
 was kostet das?
 
 ich will dafür kein geld.
+
 es ist aber unklar ob ich das überhaubt entscheiden darf da ich einen Gerichtlichen bestellten Betreuer/Rechtanwalt habe der sich "Vermögensfürsorge" kümmert.
+
 Ich bin zwar für GNU GPL V3 aber ob ich das einfach so entscheiden darf ist fraglich.
 
 die Hanoi_V_3_7_4_adv hat eine besonderheit:

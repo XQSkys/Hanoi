@@ -1,6 +1,10 @@
 # Hanoi
 Variation of "Tuerme von Hanoi".
 
+Das Tool zum übersetzten in ein ausführbares Java Programm finden sie unter: https://processing.org/
+zum Spielen selber benotigen sie auserdem
+https://java.com/de/download/
+
 wer normal spielen möchte:
 Hanoi_Lite_V3.6.7z ohne Filme funktion, ohne Automatisches Speichern.
 
@@ -8,9 +12,9 @@ Hanoi_Infohazard.zip Film funktion, Automatisches Speichern.
 
 Hanoi_V3_7_4_adv.zip sondervariante mit spizieller autosave und filme funktion 
 
-was kostet das?
+# was kostet das?
 
-ich will dafür kein geld.
+ich will dafür kein gGeld.
 
 es ist aber unklar ob ich das überhaubt entscheiden darf da ich einen Gerichtlichen bestellten Betreuer/Rechtanwalt habe der sich "Vermögensfürsorge" kümmert.
 

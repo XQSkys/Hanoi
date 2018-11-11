@@ -5,8 +5,10 @@ die Hanoi_V_3_7_4_adv hat eine besonderheit:
 wenn ein beliebiges level aktiv ist zum beispiel 17 steine, werden alles autosave in der eingestellten höhe gespeichert(die zahl die auf dem höhe knopf steht) ohne das zuätzlich getan erden muss.
 das heißt wenn ich level 17 spiele und nur die höhe geändert wird auf dem knopf  speichert und läd er von da ensprechen sind alle höhen nummern wie speicher slots/speicherplatze. z.b. ein 19er als 1bild.png speichern und dann alle anderen 18 plätze zum schnell speichern nemen nur den start knopf sollte dann nicht gedrückt werden.ein 19er als 1bild.png also "höhe:1" einstellen und er öffnet 1bild.png was ein bild von einem 19er ist. trozdem kann es wie gewohnt gespielt werden.
 
+die Film knopf ist auch anders bei Hanoi_V_3_7_4_adv es wird eine fortlaufene nummer movie##### erzeigt aber der film wird immer in der 3savesMovie gespeichert wenn höhe:3 beziehungsweise auf die aktuell eingestellte höhe ohne das sonst was getan werden muss. drückt man auf start erzeugt er einen nomalen turm de entspechenden höhe und filmt weiter, soballt die höhe verstellt wird speichert er sofort da weiter. wenn das bei höhe:1 der 19er turm wäre spielt ihr den sobalt ihr auf laden klickt. und könnt ihn wie oben beschrieben nutzen.
 
-
+ist eigenlich ganz einfach man muss sich nur etwas umgewöhnen.
+adv steht für advanced und ist ein wenig kompliziert.
 
 
 

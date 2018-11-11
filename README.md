@@ -14,7 +14,7 @@ Hanoi_V3_7_4_adv.zip sondervariante mit spizieller autosave und filme funktion
 
 # was kostet das?
 
-ich will dafür kein gGeld.
+ich will dafür kein Geld.
 
 es ist aber unklar ob ich das überhaubt entscheiden darf da ich einen Gerichtlichen bestellten Betreuer/Rechtanwalt habe der sich "Vermögensfürsorge" kümmert.
 

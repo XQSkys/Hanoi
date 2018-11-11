@@ -1,6 +1,14 @@
 # Hanoi
 Variation of "Tuerme von Hanoi".
 
+die Hanoi_V_3_7_4_adv hat eine besonderheit:
+wenn ein belibiges level aktiv ist zum beispiel 17 steine, werden alles autosave in der eingestellten höhe gespeichert(die zahl die auf dem höhe knopf steht) ohne das zuätzlich getan erden muss.
+das heißt wenn ich level 17 spiele und nur die höhe geändert wird auf dem knopf  speichert und läd er von da ensprechen sind alle höhen nummern wie speicher slots/speicherplatze. z.b. ein 19er als 1bild.png speichern und dann alle anderen 18 plätze zum schnell speichern nemen nur den start knopf sollte dann nicht gedrückt werden.
+
+
+
+
+
 Die Fertige Version V3.6 ist FÜR Windows 64Bit. Sie Brauchen Ein Aktuelles Java. Lite heisst das java nicht enthalen ist in diesem Download. Eine Installation des Spiels ist nicht notwendig das Spiel ist sofort Ausfuerbar.
 Linux/linux ARM x86 und 64bit ist fertig aber ungetestet. eine Android version ist geplant
 

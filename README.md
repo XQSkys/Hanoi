@@ -5,12 +5,23 @@ Das Tool zum übersetzten in ein ausführbares Java Programm finden sie unter: h
 zum Spielen selber benotigen sie auserdem
 https://java.com/de/download/
 
-wer normal spielen möchte:
+
+
 Hanoi_Lite_V3.6.7z ohne Filme funktion, ohne Automatisches Speichern.
+
+https://github.com/XQSkys/Hanoi/blob/master/Hanoi_Lite_V3.6.7z
+
+
 
 Hanoi_Infohazard.zip Film funktion, Automatisches Speichern.
 
+https://github.com/XQSkys/Hanoi/blob/master/Hanoi_Infohazard.zip
+
+
 Hanoi_V3_7_4_adv.zip sondervariante mit spizieller autosave und filme funktion 
+
+https://github.com/XQSkys/Hanoi/blob/master/Hanoi_V3_7_4_adv.zip
+
 
 # was kostet das?
 

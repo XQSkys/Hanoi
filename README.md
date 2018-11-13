@@ -27,10 +27,6 @@ https://github.com/XQSkys/Hanoi/blob/master/Hanoi_V3_7_4_adv.zip
 
 ich will dafür kein Geld.
 
-es ist aber unklar ob ich das überhaubt entscheiden darf da ich einen Gerichtlichen bestellten Betreuer/Rechtanwalt habe der sich "Vermögensfürsorge" kümmert.
-
-Ich bin zwar für GNU GPL V3 aber ob ich das einfach so entscheiden darf ist fraglich.
-
 die Hanoi_V_3_7_4_adv hat eine besonderheit:
 wenn ein beliebiges level aktiv ist zum beispiel 17 steine, werden alles autosave in der eingestellten höhe gespeichert(die zahl die auf dem höhe knopf steht) ohne das zuätzlich getan erden muss.
 das heißt wenn ich level 17 spiele und nur die höhe geändert wird auf dem knopf  speichert und läd er von da ensprechen sind alle höhen nummern wie speicher slots/speicherplatze. z.b. ein 19er als 1bild.png speichern und dann alle anderen 18 plätze zum schnell speichern nemen nur den start knopf sollte dann nicht gedrückt werden.ein 19er als 1bild.png also "höhe:1" einstellen und er öffnet 1bild.png was ein bild von einem 19er ist. trozdem kann es wie gewohnt gespielt werden.

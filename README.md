@@ -1,6 +1,31 @@
 # Hanoi
 Variation of "Tuerme von Hanoi".
 
+
+put all stones o right plate.
+Play 1. click the pink base stone by mouse to activate
+2. click a second pink base stone to place selected stone.
+there are instant Load save boutons hoche 1-19: decide the number of stones you want to have
+and click Start
+
+chaos will randomly place selected number (1-19) the stones if click on start
+
+you may edit the bild.png to make numbers or such on the stones and load.
+
+Hanoi-with-banner branch
+Hanoi_Windows_Linux_V3_8_3
+added internet funktions:
+
+ Load a rechenkraft.net banner from web. by click it by mouse the rechenkraft.net site will appea. without internet con   nection nothing happend exept the banner is not there.
+
+Load a savegame png from internet (http://madouc.freeservers.com/)
+by editing the png you can make your one web based savegame and you may replace the rechenkaft net banner by a custom one
+line 7 and line 125.
+
+the save game from internet only load wen there is no local savegame(bild.png) in your folder
+
+
+
 Das Tool zum übersetzten in ein ausführbares Java Programm finden sie unter: https://processing.org/
 zum Spielen selber benotigen sie auserdem
 https://java.com/de/download/
